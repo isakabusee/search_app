@@ -1,0 +1,12 @@
+.searchInput{
+    margin-top: 15px;
+    padding: 15px;
+}
+.inputArea{
+    min-height: 80px;
+    width: 300px;
+}
+.results{
+    min-height: 80px;
+    width: 300px;
+}
